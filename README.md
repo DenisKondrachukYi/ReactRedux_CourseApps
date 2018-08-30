@@ -1,5 +1,7 @@
-# React_Redux-weatherApp
-React | Redux weather forecast browser app
+# React/Redux Course Apps
+
+* Weather forecast browser app
+* Blog
 
 ## Structure: 
   ```
